@@ -1,3 +1,5 @@
 # SwiftAwake
 
-A description of this package.
+```
+swift run Example
+```
